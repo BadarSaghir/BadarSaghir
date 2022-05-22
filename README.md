@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BadarSaghir
 - 👀 I’m interested in Programing, Design, peoples, science, technology, invoation and cultures
 - 🌱 I’m currently working with nextjs,react, django, nodejs, typescript, docker, flask, python 
-- 💞️ I’m looking to collaborate on nextjs, python, flask, django, flask, reactjs, microservice, docker and many more technologies
+- 💞️ I’m looking to collaborate on nextjs, react expresss, python, flask, django, flask, reactjs, microservice, docker and many more technologies
 - 📫 How to reach me Through on twitter at @DarkRoseSpeaks
  
 <!---
