@@ -12,3 +12,47 @@
 BadarSaghir/BadarSaghir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+# My Projects Link
+
+## Wordpress Theme
+- https://github.com/BadarSaghir/universityfront-wordpress-theme
+- The is theme is develop for wordpress for universities having campuses in mind
+
+## Facebook Injector
+- https://github.com/BadarSaghir/facebookInjector
+- Chrome and firefox extension that injects tweets in facebook from the list of user. It has a backend in djnago that extract the data from then backend
+
+## invoice-genrator
+- https://github.com/BadarSaghir/invoice-genrator-nextjs
+- It is electron react base desktop application that genrate invoices for users
+
+## tweetpeter
+- https://github.com/BadarSaghir/tweetpeter
+- https://tweet-recent.herokuapp.com/api/tweet/DrJamesOlsson/
+- Generate apis for twitter by automation through selenium apis
+
+## Food System Fyp
+- https://github.com/BadarSaghir/food_system_fyp.git
+- The fyp develop for the students which is mern stack application
+
+## Extracter (under development)
+- https://github.com/BadarSaghir/Extracter
+- Extension develop for extracting email using regex expressions
+
+## Django Blog 
+- https://github.com/BadarSaghir/blogInPython
+- It is a django blog develop in python framework django
+
+## Email Gatherer
+- https://github.com/BadarSaghir/email_gathering
+- Desktop Application design to extract email from google
+
+## Inside Mafia Store
+- https://badarsaghir.github.io/netlifyitm/
+- https://github.com/BadarSaghir/netlifyitm
+- Inside Mafia Store is a eccomerence store Develop for in react and typescript
+
+
+
+
