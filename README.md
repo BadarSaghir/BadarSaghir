@@ -237,7 +237,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+https://twitter.com/Darkrosespeaks
+	<a href="https://twitter.com/Darkrosespeaks"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="twitter"/></a>
+
+  <a href="https://https://github.com/BadarSaghir/BadarSaghir/edit/main/README.md"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:dataentrybadar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/BadarSaghir"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://pk.linkedin.com/in/sardar-badar-saghir-sardar-saghir-ahmad"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
