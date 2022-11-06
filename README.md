@@ -176,7 +176,7 @@
 
 
 <details>
-  <summary><b>⚡ Github Projects</b></summary>
+  <summary><b>🚧 Github Projects</b></summary>
   <br/>
 <p align="center"><a href="https://github.com/BadarSaghir"><img alt="Sardar Badar Projects " src="https://media.giphy.com/media/i3q36zEFShC18oS6v0/giphy.gif" /></a></p>
   <br/>
