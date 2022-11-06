@@ -231,7 +231,10 @@
 ## Taneps Scraper
 - https://github.com/BadarSaghir/tanepsScraper.git)
 - Application Made with Php which extract table for site with support of multithreading
-[![Php scraper with Goutte Client and Amp parallel demo](https://i.ytimg.com/vi/i3uAQoB1G3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=i3uAQoB1G3A "Now in Android: 55")  
+
+	 <p align="center">
+[<img src="https://i.ytimg.com/vi/i3uAQoB1G3A/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=i3uAQoB1G3A "Php scraper with Goutte Client and Amp parallel demo")
+		  </p>
 
 <hr/>
 </details>
