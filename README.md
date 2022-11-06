@@ -178,7 +178,7 @@
 <details>
   <summary><b>⚡ Github Projects</b></summary>
   <br/>
-   <a href="https://github.com/BadarSaghir"><img alt="Badar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=badarsaghir&custom_title=Badar%20Saghir's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/BadarSaghir"><img alt="Sardar Badar Projects " src="https://media.giphy.com/media/i3q36zEFShC18oS6v0/giphy.gif" /></a>
   <br/>
 
 ### Wordpress Theme
@@ -231,7 +231,7 @@
 ## Taneps Scraper
 - https://github.com/BadarSaghir/tanepsScraper.git)
 - Application Made with Php which extract table for site with support of multithreading
-- [![Php scraper with Goutte Client and Amp parallel demo](https://i.ytimg.com/vi/i3uAQoB1G3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=i3uAQoB1G3A "Now in Android: 55")  
+[![Php scraper with Goutte Client and Amp parallel demo](https://i.ytimg.com/vi/i3uAQoB1G3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=i3uAQoB1G3A "Now in Android: 55")  
 
 <hr/>
 </details>
