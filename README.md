@@ -176,12 +176,10 @@
 
 
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Github Projects</b></summary>
   <br/>
    <a href="https://github.com/BadarSaghir"><img alt="Badar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=badarsaghir&custom_title=Badar%20Saghir's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
-## My Projects Link
 
 ### Wordpress Theme
 - https://github.com/BadarSaghir/universityfront-wordpress-theme
@@ -230,9 +228,20 @@
 - https://github.com/BadarSaghir/fdoc
 - Application Made with flutter with word document support
 
+## Taneps Scraper
+- https://github.com/BadarSaghir/tanepsScraper.git)
+- Application Made with Php which extract table for site with support of multithreading
+- [![Php scraper with Goutte Client and Amp parallel demo](https://i.ytimg.com/vi/i3uAQoB1G3A/maxresdefault.jpg)](https://www.youtube.com/watch?v=i3uAQoB1G3A "Now in Android: 55")  
+
 <hr/>
 </details>
 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/BadarSaghir"><img alt="Badar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=badarsaghir&custom_title=Badar%20Saghir's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
 <br/>
 
 ## 🙋‍♀️ Let's Connect
