@@ -210,6 +210,11 @@
 - https://github.com/BadarSaghir/blogInPython
 - It is a django blog develop in python framework django
 
+## GMAIL EXPORTER
+- https://gmail-filteror.herokuapp.com
+- https://github.com/BadarSaghir/gmail_export
+- Application to export importan email and their link of gmail account into single email by filtering according to the need
+
 ## Email Gatherer
 - https://github.com/BadarSaghir/email_gathering
 - Desktop Application design to extract email from google
