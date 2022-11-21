@@ -234,12 +234,21 @@
 - Application Made with flutter with word document support
 
 ## Taneps Scraper
-- https://github.com/BadarSaghir/tanepsScraper.git)
+- https://github.com/BadarSaghir/tanepsScraper.git
 - Application Made with Php which extract table for site with support of multithreading
 
 <p align="center"><a href="https://www.youtube.com/watch?v=i3uAQoB1G3A"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://img.youtube.com/vi/i3uAQoB1G3A/0.jpg" /></a></p>
+
+## Qr-Coder Nestjs
+- https://github.com/BadarSaghir/qr-coder.git
+- Live link https://badarsaghir.github.io/qr-coder
+- Nextjs Application That can read and create qrcode
+
+<p align="center"><a href="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo_qr-2022-11-21_20.57.06.mp4"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo1.png" /></a></p>
+
   <br/>
 <hr/>
+
 </details>
 
 <details>
