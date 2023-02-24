@@ -181,9 +181,12 @@
 <p align="center"><a href="https://github.com/BadarSaghir"><img alt="Sardar Badar Projects " src="https://media.giphy.com/media/i3q36zEFShC18oS6v0/giphy.gif" /></a></p>
   <br/>
 
-### Wordpress Theme
-- https://github.com/BadarSaghir/universityfront-wordpress-theme
-- The is theme is develop for wordpress for universities having campuses in mind
+	
+## Adley.ai
+- Live link https://adley.ai/
+- An ai driven application use for generating content through ai. The User Interface was completely converted into the nextjs and website is optimized for Search engines like google
+
+<p align="center"><a href="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo_qr-2022-11-21_20.57.06.mp4"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo1.png" /></a></p>
 
 ## Facebook Injector
 - https://github.com/BadarSaghir/facebookInjector
@@ -239,12 +242,17 @@
 
 <p align="center"><a href="https://www.youtube.com/watch?v=i3uAQoB1G3A"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://img.youtube.com/vi/i3uAQoB1G3A/0.jpg" /></a></p>
 
-## Qr-Coder Nestjs
+## Qr-Coder Nextjs
 - https://github.com/BadarSaghir/qr-coder.git
 - Live link https://badarsaghir.github.io/qr-coder
 - Nextjs Application That can read and create qrcode
 
 <p align="center"><a href="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo_qr-2022-11-21_20.57.06.mp4"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo1.png" /></a></p>
+
+
+### Wordpress Theme
+- https://github.com/BadarSaghir/universityfront-wordpress-theme
+- The is theme is develop for wordpress for universities having campuses in mind
 
   <br/>
 <hr/>
