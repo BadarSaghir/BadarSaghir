@@ -185,9 +185,8 @@
 ## Adley.ai
 - Live link https://adley.ai/
 - An ai driven application use for generating content through ai. The User Interface was completely converted into the nextjs and website is optimized for Search engines like google
-
-<p align="center"><a href="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo_qr-2022-11-21_20.57.06.mp4"><img alt="Php scraper with Goutte Client and Amp parallel demo" src="https://raw.githubusercontent.com/BadarSaghir/qr-coder/main/demo1.png" /></a></p>
-
+<p align="center"><a href="https://www.youtube.com/watch?v=V_ioeEdO_YQ"><img alt="Ai Driven Application for Writing content" src="https://img.youtube.com/vi/V_ioeEdO_YQ/0.jpg" /></a></p>
+	
 ## Facebook Injector
 - https://github.com/BadarSaghir/facebookInjector
 - Chrome and firefox extension that injects tweets in facebook from the list of user. It has a backend in djnago that extract the data from then backend
