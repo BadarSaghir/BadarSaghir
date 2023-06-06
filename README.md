@@ -173,8 +173,9 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badarsaghir&show_icons=true&locale=en&layout=compact&theme=algolia" alt="badarsaghir" height="192px"/>
   <br/>
+	    
+	  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@BadarSaghir" alt="badarsaghir" height="192px"/>
   
-	[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BadarSaghir)](Sardar Badar Stats)
    <br/>
 	  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
