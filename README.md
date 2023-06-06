@@ -167,20 +167,22 @@
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <center>
+  <p align="center">
     <a href="https://github.com/badarsaghir/github-readme-stats"><img alt="Badar Github Stats" src="https://github-readme-stats.vercel.app/api?username=badarsaghir&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badarsaghir&show_icons=true&locale=en&layout=compact&theme=algolia" alt="badarsaghir" height="192px"/>
   <br/>
-	  <span>
-		  
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@BadarSaghir)  
+<span>  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@BadarSaghir" alt="badarsaghir" />
+	  </span> 
+     
+
 		
-	  </span>	    
+	     
    <br/>
 <span>	  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</span>	  
- <center>
+ 
+ <p>
   
 </details>
 
