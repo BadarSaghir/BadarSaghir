@@ -258,12 +258,12 @@
 
 </details>
 
-<details>
+<!-- <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/BadarSaghir"><img alt="Badar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=badarsaghir&custom_title=Badar%20Saghir's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-</details>
+</details> -->
 <br/>
 
 ## 🙋‍♀️ Let's Connect
