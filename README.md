@@ -198,7 +198,11 @@
 - Live link https://adley.ai/
 - An ai driven application use for generating content through ai. The User Interface was completely converted into the nextjs and website is optimized for Search engines like google
 <p align="center"><a href="https://www.youtube.com/watch?v=V_ioeEdO_YQ"><img alt="Ai Driven Application for Writing content" src="https://img.youtube.com/vi/V_ioeEdO_YQ/0.jpg" /></a></p>
-	
+
+ ## Caber System
+- Live link https://caber.com/
+- Caber identifies, tracks, and helps secure data-in-use so you can build, validate, and monitor access policies based on the data that’s actually flowing inside your applications.
+
 ## Facebook Injector
 - https://github.com/BadarSaghir/facebookInjector
 - Chrome and firefox extension that injects tweets in facebook from the list of user. It has a backend in djnago that extract the data from then backend
