@@ -1,9 +1,50 @@
 {
+    "editor.stickyScroll.scrollWithEditor": true,
+    "editor.inlayHints.enabled": "on",
+    "editor.bracketPairColorization.enabled": true,
     "window.titleBarStyle": "custom",
-    "workbench.colorTheme": "Default Light+",
+    "workbench.colorTheme": "GitHub Light",
     "files.autoSave": "afterDelay",
     "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
     "editor.fontFamily": "'Fira Code'",
     "terminal.integrated.fontFamily": "'MesloLGS NF'",
-    "workbench.iconTheme": "vscode-icons"
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.stickyScroll.defaultModel": "outlineModel",
+    "editor.stickyScroll.maxLineCount": 7,
+    "workbench.tree.enableStickyScroll": true,
+ "editor.stickyScroll.enabled": true,
+    "cSpell.userWords": [
+        "Hsts",
+        "openapi",
+        "seedrandom",
+        "supabase",
+        "tailwindcss"
+    ],
+    "git.enableSmartCommit": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "gitlens.mode.active": "zen",
+    "git.autofetch": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "nxConsole.showNodeVersionOnStartup": false,
+    "terminal.integrated.env.linux": {},
+    "sonarlint.rules": {
+
+    },
+    "sonarlint.focusOnNewCode": true,
+    "console-ninja.featureSet": "Community",
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
+    }
 }
