@@ -26,11 +26,11 @@ return {
    },
 
    -- scrollbar
-   enable_scroll_bar = true,
+   enable_scroll_bar = false,
 
    -- tab bar
-   enable_tab_bar = true,
-   hide_tab_bar_if_only_one_tab = false,
+   enable_tab_bar = false,
+   hide_tab_bar_if_only_one_tab = true,
    use_fancy_tab_bar = false,
    tab_max_width = 25,
    show_tab_index_in_tab_bar = false,
@@ -38,10 +38,10 @@ return {
 
    -- window
    window_padding = {
-      left = 5,
-      right = 10,
-      top = 12,
-      bottom = 7,
+      left = 0,
+      right = 0,
+      top = 0,
+      bottom = 0,
    },
    window_close_confirmation = 'NeverPrompt',
    window_frame = {
