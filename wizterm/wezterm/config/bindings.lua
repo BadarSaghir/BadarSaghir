@@ -1,16 +1,16 @@
-local wezterm = require('wezterm')
-local platform = require('utils.platform')()
-local backdrops = require('utils.backdrops')
+local wezterm = require("wezterm")
+local platform = require("utils.platform")()
+local backdrops = require("utils.backdrops")
 local act = wezterm.action
 
 local mod = {}
 
 if platform.is_mac then
-   mod.SUPER = 'SUPER'
-   mod.SUPER_REV = 'SUPER|CTRL'
+	mod.SUPER = "SUPER"
+	mod.SUPER_REV = "SUPER|CTRL"
 elseif platform.is_win or platform.is_linux then
-   mod.SUPER = 'ALT' -- to not conflict with Windows key shortcuts
-   mod.SUPER_REV = 'ALT|CTRL'
+	mod.SUPER = "ALT" -- to not conflict with Windows key shortcuts
+	mod.SUPER_REV = "ALT|CTRL"
 end
 
 -- stylua: ignore
@@ -18,12 +18,18 @@ local keys = {
    -- misc/useful --
    { key = 'F1', mods = 'NONE', action = 'ActivateCopyMode' },
    { key = 'F2', mods = 'NONE', action = act.ActivateCommandPalette },
-
+  {
+    key = 'f',
+    mods = 'SUPER',
+    action = act.ToggleFullScreen,
+  }, 
+  { key = 'PageUp', mods = 'SHIFT', action = act.ScrollByPage(-0.5) },
+  { key = 'PageDown', mods = 'SHIFT', action = act.ScrollByPage(0.5) },
    { key = 'F3', mods = 'NONE', action = act.ShowLauncher },
 
     {
         key = "F12",
-    mods="NONE",
+    mods=mod.SUPER,
         action = wezterm.action_callback(function(_, pane)
             local tab = pane:tab()
             local panes = tab:panes_with_info()
@@ -42,7 +48,7 @@ local keys = {
         end),
     },
   
-  {key = 'F11', mods="NONE",action = act.TogglePaneZoomState},
+  {key = 'F11', mods=mod.SUPER,action = act.TogglePaneZoomState},
 
 
    { key = 'F4', mods = 'NONE', action = act.ShowLauncherArgs({ flags = 'FUZZY|TABS' }) },
@@ -159,7 +165,9 @@ local keys = {
    -- resizes fonts
    {
       key = 'f',
-      mods = 'LEADER',
+     
+      mods = mod.SUPER,
+
       action = act.ActivateKeyTable({
          name = 'resize_font',
          one_shot = false,
@@ -169,7 +177,8 @@ local keys = {
    -- resize panes
    {
       key = 'p',
-      mods = 'LEADER',
+      --mods = 'LEADER',
+      mods = mod.SUPER,
       action = act.ActivateKeyTable({
          name = 'resize_pane',
          one_shot = false,
@@ -198,18 +207,18 @@ local key_tables = {
 }
 
 local mouse_bindings = {
-   -- Ctrl-click will open the link under the mouse cursor
-   {
-      event = { Up = { streak = 1, button = 'Left' } },
-      mods = 'CTRL',
-      action = act.OpenLinkAtMouseCursor,
-   },
+	-- Ctrl-click will open the link under the mouse cursor
+	{
+		event = { Up = { streak = 1, button = "Left" } },
+		mods = "CTRL",
+		action = act.OpenLinkAtMouseCursor,
+	},
 }
 
 return {
-   disable_default_key_bindings = true,
-   leader = { key = 'Space', mods = mod.SUPER_REV },
-   keys = keys,
-   key_tables = key_tables,
-   mouse_bindings = mouse_bindings,
+	disable_default_key_bindings = true,
+	leader = { key = "Space", mods = mod.SUPER_REV },
+	keys = keys,
+	key_tables = key_tables,
+	mouse_bindings = mouse_bindings,
 }
