@@ -285,7 +285,7 @@
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 
-	<a href="https://forms.gle/at7j2B9XNssz3dhS7"><img src="[https://img.icons8.com/bubbles/50/000000/](https://img.icons8.com/?size=100&id=dBtrEaTywT1A&format=png&color=000000)" alt="form"/></a>  
+	<a href="https://forms.gle/at7j2B9XNssz3dhS7"><img src="https://img.icons8.com/?size=100&id=dBtrEaTywT1A&format=png&color=000000" alt="form"/></a>  
 	<a href="https://twitter.com/darkrosespeaks"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="twitter"/></a>  
 	<a href="https://https://github.com/BadarSaghir"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:dataentrybadar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
