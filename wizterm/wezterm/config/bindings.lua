@@ -49,6 +49,11 @@ local keys = {
     },
   
   {key = 'F11', mods=mod.SUPER,action = act.TogglePaneZoomState},
+  {
+    key = 'f',
+    mods = mod.SUPER_REV,
+    action = wezterm.action.ToggleFullScreen,
+  },
 
 
    { key = 'F4', mods = 'NONE', action = act.ShowLauncherArgs({ flags = 'FUZZY|TABS' }) },
