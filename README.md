@@ -284,14 +284,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-    <a href="https://forms.gle/at7j2B9XNssz3dhS7"><img src="https://img.icons8.com/?size=100&id=dBtrEaTywT1A&format=png&color=000000" alt="form" style="width:50px;height:50px;margin:10px;"/></a>
-    <a href="https://twitter.com/darkrosespeaks"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="twitter" style="width:50px;height:50px;margin:10px;"/></a>
     <a href="https://github.com/BadarSaghir"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website" style="width:50px;height:50px;margin:10px;"/></a>
     <a href="mailto:dataentrybadar@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" style="width:50px;height:50px;margin:10px;"/></a>
     <a href="https://github.com/BadarSaghir"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" style="width:50px;height:50px;margin:10px;"/></a>
     <a href="https://pk.linkedin.com/in/sardar-badar-saghir-sardar-saghir-ahmad"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" style="width:50px;height:50px;margin:10px;"/></a>
-    <a href="https://web.facebook.com/DataEntryBadar/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook" style="width:50px;height:50px;margin:10px;"/></a>
-    <a href="https://instagram.com/badar.dev"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" style="width:50px;height:50px;margin:10px;"/></a>
     <a href="https://www.youtube.com/channel/UC2tT1if0P2yy5RiIFbBpqwg"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube" style="width:50px;height:50px;margin:10px;"/></a>
     <a href="https://www.fiverr.com/dataentrybadar/"><img src="https://img.icons8.com/bubbles/50/000000/fiverr.png" alt="Data Entry badar" style="width:50px;height:50px;margin:10px;"/></a>
 </p>
