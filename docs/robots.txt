@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sardarbadarsaghir.github.io/sitemap.xml
+Sitemap: https://badarsaghir.github.io/BadarSaghir/sitemap.xml
